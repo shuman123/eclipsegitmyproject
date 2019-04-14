@@ -3,7 +3,7 @@ package com.cn.sm.handler;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
+//afsd
 @Controller
 public class SringMvcHandler {
 	@RequestMapping("welcome")
