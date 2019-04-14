@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class SringMvcHandler {
 	@RequestMapping("welcome")
     public String welcome(){
-    	System.out.println("welcoasfdadfme.....");
+    	System.out.println("welco333asfdadfme.....");
     	return "success";
     	
     }
