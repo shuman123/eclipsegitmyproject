@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 //afs34
 //556233
+//556
 @Controller
 public class SringMvcHandler {
 	@RequestMapping("welcome")
