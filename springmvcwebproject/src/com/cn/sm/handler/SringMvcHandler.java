@@ -4,6 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 //afsd22122
+//556
 @Controller
 public class SringMvcHandler {
 	@RequestMapping("welcome")
